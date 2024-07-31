@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+.block{
+    border: 5px solid black;
+    margin: 10px;
+}
+.para{
+    margin: 10px;
+}
+.toy{
+    display: block;
+}
+.inline{
+    display: inline;
+}
+.inline-block{
+    display: inline-block;
+}
